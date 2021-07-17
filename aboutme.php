@@ -136,7 +136,7 @@ display:inline-block;
 <body>
 	<div  class="nv">
 	<ul >
-				<li class="active"><a  href="index.php" >Home</a></li> </ul></div>
+				<li class="active"><a  href="index.html" >Home</a></li> </ul></div>
 	
 			<div id="main">
 				<div id="main2"></div>

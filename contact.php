@@ -47,7 +47,7 @@ display:inline-block;
     <div class="contact-info">
       <div  class="nv">
   <ul >
-        <li class="active"><a  href="index.php" >Home</a></li> </ul></div>
+        <li class="active"><a  href="index.html" >Home</a></li> </ul></div>
       <div style="background-color: gray;background-color: #9dc5c3;
     background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);" class="card">
         <i class="card-icon far fa-envelope"></i>
